@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaymentProcessButton</string>
+
+    <string name="app_payment">Payment</string>
+</resources>
